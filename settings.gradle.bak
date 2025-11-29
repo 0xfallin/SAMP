@@ -29,5 +29,4 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = 'SA-MP Mobile'
-include ':app'
+rootProject.name = 'android-gradle-java-app-template'
